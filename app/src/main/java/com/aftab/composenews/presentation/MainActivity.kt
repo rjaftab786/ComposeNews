@@ -1,4 +1,4 @@
-package com.aftab.composenews
+package com.aftab.composenews.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
